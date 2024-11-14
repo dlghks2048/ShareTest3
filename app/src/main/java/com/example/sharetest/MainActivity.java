@@ -22,6 +22,6 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
-        Log.d("TAG", "didl");
+        Log.d("TAG", "야호 성공이다.");
     }
 }
